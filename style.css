@@ -86,7 +86,7 @@ margin:4px 0 auto;
     height: 24px;
     background:var(--surface-color);
     border: 1px solid var(--stroker-color);
-    -webkit-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px);
     border-radius: 9999px;
 }
 ul {
